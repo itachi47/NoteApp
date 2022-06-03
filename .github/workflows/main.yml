@@ -1,5 +1,5 @@
 
-name: CI-CD-AWS
+name: CI-CD-AWS-test
 env:
   EB_PACKAGE_S3_BUCKET_NAME : "test-kuldeep"
   EB_APPLICATION_NAME       : "Test-Kuldeep"
